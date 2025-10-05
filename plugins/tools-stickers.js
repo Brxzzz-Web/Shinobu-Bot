@@ -8,7 +8,7 @@ import { join } from 'path';
 let handler = async (m, { conn, args, usedPrefix, command }) => {
     let stiker = false;
     try {
-        let nombreBot = 'Escanor'; 
+        let nombreBot = 'Shinobu'; 
         const botActual = conn.user?.jid?.split('@')[0]?.replace(/\D/g, '');
         const configPath = join('./JadiBots', botActual || '', 'config.json');
 
