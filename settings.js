@@ -38,7 +38,7 @@ global.author = "𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝗦𝗵𝗶𝗻�
 global.etiqueta = "𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝗦𝗵𝗶𝗻𝗼𝗯𝘂𝗢𝗳𝗶𝗰𝗶𝗮𝗹 ❤️"
 global.currency = "Coins"
 global.banner = "https://files.catbox.moe/lgepew.jpg"
-global.icono = "https://qu.ax/ZsSOc.jpg"
+global.icono = https://files.catbox.moe/bkh23g.jpg"
 global.catalogo = "https://qu.ax/ZsSOc.jpg"
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
