@@ -43,13 +43,13 @@ global.catalogo = "https://files.catbox.moe/p6jq2m.jpg"
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = "https://chat.whatsapp.com/KomtXl46duQBm4Ax1hrx0X?mode=ems_copy_c"
-global.community = "https://chat.whatsapp.com/KomtXl46duQBm4Ax1hrx0X?mode=ems_copy_c"
-global.channel = "https://whatsapp.com/channel/0029VbAscL4Fcow56wUp5b1Z"
+global.group = "https://whatsapp.com/channel/0029VbBZ1gnBKfhsNcdWRj3h"
+global.community = "https://whatsapp.com/channel/0029VbBZ1gnBKfhsNcdWRj3h"
+global.channel = "https://whatsapp.com/channel/0029VbBZ1gnBKfhsNcdWRj3h"
 global.github = "https://github.com/"
 global.gmail = "support@gmail.com"
 global.ch = {
-ch1: "120363403950112178@newsletter"
+ch1: "120363403880334037@newsletter"
 }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
