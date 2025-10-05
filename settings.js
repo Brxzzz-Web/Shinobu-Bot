@@ -39,7 +39,7 @@ global.etiqueta = "𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝗦𝗵𝗶�
 global.currency = "Coins"
 global.banner = "https://files.catbox.moe/lgepew.jpg"
 global.icono = https://files.catbox.moe/bkh23g.jpg"
-global.catalogo = "https://qu.ax/ZsSOc.jpg"
+global.catalogo = "https://files.catbox.moe/p6jq2m.jpg"
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
