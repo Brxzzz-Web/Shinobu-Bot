@@ -1,4 +1,4 @@
-<h1 align="center">✦ Yυƙι Sυσυ ✦</h1>
+<h1 align="center">❀ 𝗦𝗵𝗶𝗻𝗼𝗯𝘂 ❀</h1>
 
 <img src= "https://files.catbox.moe/om9jai.jpg">
 </p>
