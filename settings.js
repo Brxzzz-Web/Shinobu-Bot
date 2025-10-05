@@ -37,7 +37,7 @@ global.dev = "Made With ❤️ by 𝗦𝗵𝗶𝗻𝗼𝗯𝘂 𝗢𝗳𝗶𝗰�
 global.author = "𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝗦𝗵𝗶𝗻𝗼𝗯𝘂𝗢𝗳𝗶𝗰𝗶𝗮𝗹 ❤️"
 global.etiqueta = "𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝗦𝗵𝗶𝗻𝗼𝗯𝘂𝗢𝗳𝗶𝗰𝗶𝗮𝗹 ❤️"
 global.currency = "Coins"
-global.banner = "https://qu.ax/ZsSOc.jpg"
+global.banner = "https://files.catbox.moe/lgepew.jpg"
 global.icono = "https://qu.ax/ZsSOc.jpg"
 global.catalogo = "https://qu.ax/ZsSOc.jpg"
 
