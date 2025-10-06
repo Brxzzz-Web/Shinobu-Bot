@@ -56,6 +56,7 @@ ch1: "120363403880334037@newsletter"
 
 global.APIs = {
 xyro: { url: "https://xyro.site", key: null },
+stellar: { url " https://api.stellarwa.xyz", key: stellar-0MV2HeQt }, 
 yupra: { url: "https://api.yupra.my.id", key: null },
 vreden: { url: "https://api.vreden.web.id", key: null },
 delirius: { url: "https://api.delirius.store", key: null },
